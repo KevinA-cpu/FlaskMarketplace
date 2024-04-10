@@ -3,6 +3,7 @@
 ## Description
 
 This is a web application built with Flask for an online marketplace. It allows users to browse, buy, and sell items.
+User need to create an account and login before accessing the market.
 
 ## Installation
 
